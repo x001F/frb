@@ -1,4 +1,3 @@
-https://openmodeldb.info/models/8x-BoyMeBob-Redux
-https://openmodeldb.info/models/4x-NMKD-YandereNeo-XL
-https://huggingface.co/calcuis/wan-1.3b-gguf  -> https://huggingface.co/calcuis/wan-gguf 
-https://huggingface.co/Wan-AI/Wan2.1-T2V-14B
+https://www.youtube.com/watch?v=f9m1Q_07W3o
+
+https://github.com/rashevskyv/kefir/releases
